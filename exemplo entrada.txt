@@ -1,0 +1,12 @@
+Para mudar o local do arquivo de com as entradas de dados.Mude no WriteManagement.java em 
+LeituraFiles\management.file\src\files\WriteManagement.java
+A entrada deve conter na primeira linha os valores e na segundo a operação que vai ser realizada exemplo. O resultado estara no arquivo chamado saida.txt.Caso nao exista o programa criará.
+
+231 21 212 
+multiplicar
+21 21 11 1
+somar
+22 22 1412421
+subtrair
+2 2
+dividir
